@@ -27,4 +27,4 @@ const closeConnection = conn => {
 module.exports = {
   getDbConnection,
   closeConnection
-}; 
+};
